@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Training.E2Eeclipse.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="HomePage(failed)" verbose="0">
+    <classes>
+      <class name="Training.E2Eeclipse.HomePage">
+        <methods>
+          <include name="afterTest"/>
+          <include name="basePageLanding"/>
+          <include name="befTest"/>
+        </methods>
+      </class> <!-- Training.E2Eeclipse.HomePage -->
+    </classes>
+  </test> <!-- HomePage(failed) -->
+  <test thread-count="5" parallel="tests" name="Validation(failed)" verbose="0">
+    <classes>
+      <class name="Training.E2Eeclipse.ValidateTitle">
+        <methods>
+          <include name="afterTest"/>
+          <include name="basePageTitle"/>
+          <include name="befTest"/>
+        </methods>
+      </class> <!-- Training.E2Eeclipse.ValidateTitle -->
+    </classes>
+  </test> <!-- Validation(failed) -->
+  <test thread-count="5" parallel="tests" name="Menu(failed)" verbose="0">
+    <classes>
+      <class name="Training.E2Eeclipse.ValidateMenuDisplayed">
+        <methods>
+          <include name="basePageMenu"/>
+          <include name="befTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Training.E2Eeclipse.ValidateMenuDisplayed -->
+    </classes>
+  </test> <!-- Menu(failed) -->
+</suite> <!-- Failed suite [Suite] -->

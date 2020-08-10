@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-04T03:22:01 MST" name="Suite" finished-at="2020-08-04T03:22:28 MST" duration-ms="26369">
+    <groups>
+    </groups>
+    <test started-at="2020-08-04T03:22:01 MST" name="HomePage" finished-at="2020-08-04T03:22:28 MST" duration-ms="26369">
+      <class name="Training.E2Eeclipse.HomePage">
+        <test-method is-config="true" signature="befTest()[pri:0, instance:Training.E2Eeclipse.HomePage@726386ed]" started-at="2020-08-04T03:22:01 MST" name="befTest" finished-at="2020-08-04T03:22:07 MST" duration-ms="5437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befTest -->
+        <test-method signature="basePageLanding(java.lang.String, java.lang.String)[pri:0, instance:Training.E2Eeclipse.HomePage@726386ed]" started-at="2020-08-04T03:22:07 MST" name="basePageLanding" data-provider="getData" finished-at="2020-08-04T03:22:20 MST" duration-ms="13125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstEmail@abc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageLanding -->
+        <test-method signature="basePageLanding(java.lang.String, java.lang.String)[pri:0, instance:Training.E2Eeclipse.HomePage@726386ed]" started-at="2020-08-04T03:22:20 MST" name="basePageLanding" data-provider="getData" finished-at="2020-08-04T03:22:24 MST" duration-ms="3808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondEmail@abc.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passpass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageLanding -->
+        <test-method signature="basePageLanding(java.lang.String, java.lang.String)[pri:0, instance:Training.E2Eeclipse.HomePage@726386ed]" started-at="2020-08-04T03:22:24 MST" name="basePageLanding" data-provider="getData" finished-at="2020-08-04T03:22:28 MST" duration-ms="3738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdEmail@abcd.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageLanding -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Training.E2Eeclipse.HomePage@726386ed]" started-at="2020-08-04T03:22:28 MST" name="afterTest" finished-at="2020-08-04T03:22:28 MST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Training.E2Eeclipse.HomePage -->
+    </test> <!-- HomePage -->
+  </suite> <!-- Suite -->
+</testng-results>

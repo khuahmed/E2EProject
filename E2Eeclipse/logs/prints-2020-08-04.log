@@ -1,0 +1,107 @@
+19:06:12.068 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+19:06:12.900 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+19:06:13.366 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+19:06:22.179 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+19:06:25.181 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+19:06:30.716 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+19:06:34.166 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+19:06:34.343 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+22:29:42.016 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+22:29:42.154 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+22:29:42.553 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+22:29:57.356 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+22:30:01.857 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:30:06.043 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:30:09.773 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:30:09.948 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+22:31:56.938 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+22:31:57.427 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+22:31:57.630 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+22:32:06.168 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+22:32:10.109 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:32:14.235 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:32:17.426 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:32:17.607 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+22:34:00.536 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+22:34:00.536 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+22:34:01.204 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+22:34:09.022 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+22:34:12.795 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:34:17.036 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:34:20.057 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:34:20.198 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+22:35:01.114 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+22:35:01.619 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+22:35:01.908 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+22:35:10.405 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+22:35:14.523 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:35:17.744 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:35:20.748 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:35:21.977 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+22:54:56.386 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+22:54:56.414 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+22:54:56.802 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+22:55:10.909 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+22:55:16.214 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:55:19.880 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:55:22.798 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+22:55:23.020 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:07:09.194 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:07:09.666 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+23:07:09.865 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:07:17.601 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+23:07:25.470 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:07:28.581 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:07:31.568 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:07:31.742 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:10:37.583 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:10:37.807 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+23:10:37.958 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:10:45.745 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+23:10:47.552 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:10:50.905 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:10:54.109 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:10:54.307 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:11:29.437 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:11:29.634 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:11:29.700 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+23:11:38.788 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+23:11:42.190 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:11:47.285 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:11:51.396 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:11:51.603 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:16:40.816 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:16:40.850 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+23:16:41.309 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:16:48.395 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+23:16:51.178 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:16:54.816 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:16:58.161 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:16:58.350 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:17:17.568 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:17:17.608 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+23:17:17.710 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:17:26.813 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+23:17:31.027 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:17:34.411 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:17:37.348 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:17:37.519 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:18:23.412 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:18:23.520 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+23:18:24.461 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:18:34.581 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+23:18:37.556 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:18:41.880 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:18:44.693 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:18:46.613 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:40:02.135 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:40:02.462 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:40:04.951 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
+23:40:11.553 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Displayed Assertion - getPageNav
+23:40:16.943 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:40:20.374 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:40:23.556 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - loginPage parameter run
+23:40:24.796 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver closed
+23:40:52.529 [TestNG-tests-3] INFO  Training.E2Eeclipse.ValidateMenuDisplayed - Driver is initiated
+23:40:52.544 [TestNG-tests-1] INFO  Training.E2Eeclipse.HomePage - Driver is initiated
+23:40:53.341 [TestNG-tests-2] INFO  Training.E2Eeclipse.ValidateTitle - Driver is initiated
